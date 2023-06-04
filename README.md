@@ -1,13 +1,13 @@
 # A'braham Barakhyahu
-## Full Stack Developer, Dev Lead,  
+##  Developer, Front End, Back End
 
-
+<br />
 I'm a Senior Full Stack Developer who has enjoyed designing and building systems on the front and backend over numerous engagements.  
 
 <!--
 You can find more at: [barakhyahu.com](http://barakhyahu.com)
 -->
-
+<br />
 ### 🚀  I'm currently working on:
 
 •   Building shared and remote specific React components and tests in a module federated environment.
@@ -15,6 +15,7 @@ You can find more at: [barakhyahu.com](http://barakhyahu.com)
 •   Authenticated broadcast viewer with Pocketbase and Next 13.
 
 <br />
+
 ### 💬 Ask me about ...
 
 •  Front end development with React, Nextjs, Nodejs
