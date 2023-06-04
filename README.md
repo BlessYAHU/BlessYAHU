@@ -1,16 +1,30 @@
-### Hi there 👋
+# A'braham Barakhyahu
+## Full Stack Developer, Dev Lead,  
+
+
+I'm a Senior Full Stack Developer who has enjoyed designing and building systems on the front and backend over numerous engagements.  
 
 <!--
-**BlessYAHU/BlessYAHU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+You can find more at: [barakhyahu.com](http://barakhyahu.com)
 -->
+
+### 🚀  I'm currently working on:
+
+•   Building shared and remote specific React components and tests in a module federated environment.
+
+•   Authenticated broadcast viewer with Pocketbase and Next 13.
+
+<br />
+### 💬 Ask me about ...
+
+•  Front end development with React, Nextjs, Nodejs
+
+•  .NET development with C#, MVC, WebAPI
+
+•  Azure cloud services
+
+•  Agile methodologies and best practices
+
+<br />
+
+### 📫 Reach me at: abraham@barakhyahu.com
