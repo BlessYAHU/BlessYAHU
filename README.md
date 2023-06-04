@@ -1,13 +1,14 @@
-# A'braham Barakhyahu
-##  Developer, Front End, Back End
+<h1> A'braham Barakhyahu</h1>
 
-<br />
+<p>
 I'm a Senior Full Stack Developer who has enjoyed designing and building systems on the front and backend over numerous engagements.  
+</p>
 
 <!--
 You can find more at: [barakhyahu.com](http://barakhyahu.com)
 -->
-<br />
+
+
 ### 🚀  I'm currently working on:
 
 •   Building shared and remote specific React components and tests in a module federated environment.
