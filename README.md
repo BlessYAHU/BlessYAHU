@@ -8,7 +8,6 @@ I'm a Senior Full Stack Developer who has enjoyed designing and building systems
 You can find more at: [barakhyahu.com](http://barakhyahu.com)
 -->
 
-
 ### 🚀  I'm currently working on:
 
 •   Building shared and remote specific React components and tests in a module federated environment.
