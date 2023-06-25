@@ -1,7 +1,7 @@
 <h1> A'braham Barakhyahu</h1>
 
 <p>
-I'm a Senior Full Stack Developer who has enjoyed designing and building systems on the front and backend over numerous engagements.  
+I work as a Full Stack Developer designing and building systems on the front and backend.  I enjoy development and what is possible on the web and have worked on enough projects to know what is suitable for the situation. 
 </p>
 
 <!--
@@ -25,6 +25,10 @@ You can find more at: [barakhyahu.com](http://barakhyahu.com)
 •  Azure cloud services
 
 •  Agile methodologies and best practices
+
+•  Functional Programming and Category Theory in Javascript.
+
+•  Hacking on [Pocktbase](https://pocketbase.io/).
 
 <br />
 
