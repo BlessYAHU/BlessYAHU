@@ -29,7 +29,7 @@ You can find more at: [barakhyahu.com](http://barakhyahu.com)
 
 •   Building shared and remote specific React components and tests in a module federated environment.
 
-•   Authenticated broadcast viewer with Pocketbase and Next 13.
+•   Building an App using Nextjs App Router.
 
 <br />
 
