@@ -29,7 +29,6 @@ You can find more at: [barakhyahu.com](http://barakhyahu.com)
 
 •   Building shared and remote specific React components and tests in a module federated environment.
 
-•   Building an App using Nextjs App Router.
 
 <br />
 
