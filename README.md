@@ -27,7 +27,7 @@ You can find more at: [barakhyahu.com](http://barakhyahu.com)
 
 ### 🚀  I'm currently working on:
 
-*   Wading into Gleam
+*   Wading into Gleam.
 *   Building shared and remote React components and tests in a module federated environment.
 *   Writing handlers, Azure Functions, Orchestration Event Raisers, etc. in Azure.
 
@@ -36,11 +36,11 @@ You can find more at: [barakhyahu.com](http://barakhyahu.com)
 
 ### 💬 Ask me about ...
 
-•  Front end development with React, Nextjs, Nodejs
+•  Front end development with React, Nextjs, Nodejs.
 
-•  .NET development in Azure with Azure C#
+•  .NET development in Azure with Azure C#.
 
-•  Agile methodologies and best practices
+•  Agile methodologies and best practices.
 
 •  Functional Programming and Category Theory in Javascript.
 
