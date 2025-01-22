@@ -44,7 +44,7 @@ You can find more at: [barakhyahu.com](http://barakhyahu.com)
 
 •  Functional Programming and Category Theory in Javascript.
 
-•  Hacking on [Tanstack Router](https://tanstack.com/router/latest)
+•  Hacking on [Tanstack Router](https://tanstack.com/router/latest).
 
 •  How Much I like pattern matching and the Pipe operator.
 
