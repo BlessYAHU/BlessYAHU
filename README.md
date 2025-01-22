@@ -1,7 +1,7 @@
 <h1> A'braham Barakhyahu</h1>
 
 <p>
-I work as a Full Stack Developer designing and building systems on the front and backend.  I enjoy development and what is possible on the web and have worked on enough projects to know what is suitable for the situation. 
+I’m a Full Stack Developer who loves building web applications and systems.  I’m enjoy building applications and systems, and I'm always thinking about how to make systems that not only work well but get stronger over time.
 </p>
 
 ## Skills
@@ -27,8 +27,9 @@ You can find more at: [barakhyahu.com](http://barakhyahu.com)
 
 ### 🚀  I'm currently working on:
 
-•   Wading into Gleam
+*   Wading into Gleam
 *   Building shared and remote React components and tests in a module federated environment.
+*   Writing handlers, Azure Functions, Orchestration Event Raisers, etc. in Azure.
 
 
 <br />
@@ -37,15 +38,15 @@ You can find more at: [barakhyahu.com](http://barakhyahu.com)
 
 •  Front end development with React, Nextjs, Nodejs
 
-•  .NET development with C#, MVC, WebAPI
-
-•  Azure cloud services
+•  .NET development in Azure with Azure C#
 
 •  Agile methodologies and best practices
 
 •  Functional Programming and Category Theory in Javascript.
 
 •  Hacking on [Tanstack Router](https://tanstack.com/router/latest)
+
+•  How Much I like pattern matching and the Pipe operator.
 
 <br />
 
