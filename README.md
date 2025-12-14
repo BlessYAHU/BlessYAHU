@@ -27,28 +27,26 @@ You can find more at: [barakhyahu.com](http://barakhyahu.com)
 
 ### 🚀  I'm currently working on:
 
-*   Wading into Gleam.
+*   Automating Testing and Continuos Integration in Micro-Frontend system.
 *   Building shared and remote React components and tests in a module federated environment.
 *   Writing handlers, Azure Functions, Orchestration Event Raisers, etc. in Azure.
-
+*   Clawing back to learning Gleam.
 
 <br />
 
 ### 💬 Ask me about ...
 
-•  Front end development with React, Nextjs, Nodejs.
+•  Front end development with React, Bunjs, Nodejs.
 
-•  .NET development in Azure with Azure C#.
+•  .NET development in Azure with C#.
 
 •  Agile methodologies and best practices.
 
-•  Functional Programming and Category Theory in Javascript.
-
-•  Hacking on [Tanstack Router](https://tanstack.com/router/latest).
-
 •  How Much I like pattern matching and the Pipe operator.
+
+•  Functional Programming and Category Theory in Javascript.
 
 <br />
 
-### 📫 Reach me at: abraham@barakhyahu.com
+### 📫 Reach me at: coding@barakhyahu.com
 
